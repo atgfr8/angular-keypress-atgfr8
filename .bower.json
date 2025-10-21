@@ -1,0 +1,13 @@
+{
+  "name": "angular-keypress",
+  "homepage": "https://github.com/Vivify-Ideas/angular-keypress",
+  "_release": "5ff37e2729",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5ff37e272984a1a2dbf2aae660ae2696d3f50318"
+  },
+  "_source": "https://github.com/Vivify-Ideas/angular-keypress.git",
+  "_target": "*",
+  "_originalSource": "angular-keypress"
+}
